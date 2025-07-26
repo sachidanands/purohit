@@ -424,6 +424,14 @@
 }
 /*** Facts End ***/
 
+/*** Karmkand Start ***/
+
+.karmkand_description {
+    text-align: left;
+}
+
+/*** Karmkand End ***/
+
 
 /*** testimonial Start ***/
 .testimonial .owl-nav .owl-prev {
